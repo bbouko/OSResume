@@ -36,17 +36,7 @@ l'ES doit être capable d'assurer :
 \subsubsection{La simultanéité}
 plusieurs activités en parallèle, problématique : switch, protection, synchroniquer les activités ???
 \subsubsection{Le partage}
-Des ressources et des infos. problématique : accès simultané ?
+Des ressources et des infos
 \subsubsection{les mémoires de masse}
-stockage des infos de manière interne. problématique : facilité d'accès, défaillances systèmes,...
-\subsubsection{LE non-déterminisme des évènements}
-Mais l'SE soit rester déterministe
+\subsubsection{LE non-déterminisme}
 \subsection{Qualité d'un SE}
-\subsubsection{Efficacité}
-utilisation des ressources / temps minimal UC, temp réponde,...
-\subsubsection{Sécurité}
-Un SE ne devrait pas comporter d'erreurs, + erreur dans un module ne devrait pas en avoir des effets sur les autres.
-\subsubsection{Facilité de maintenance}
-COnstructin modulaire et documentée
-\subsubsection{faible encombrement}
-Place limitée en mémoire (mémoire perdue) 
