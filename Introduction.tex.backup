@@ -39,20 +39,7 @@ multi-tâche , protection entre users non nécéssaire.
 \subsubsection{Process control}
 contrôle process industriels, Prend rapidement des décisions, sécurité optimale / moins d'interventions possibles. rester opérationelle en cas de prob hardware
 \subsubsection{Systemes d'interrogation de fichiers}
-E/S perfomramt, reponses rapides grandes BDD, modif possible de la BDD
 \subsubsection{Systèmes transactionnels}
-Modifications très fréquentes BDD(systeme bancaire). Contrainte : transactions simultanées sur la même donnée
 \subsubsection{Systèmes généralistes}
-Grand nombre d'users, grande variété de tâches, flot continu de jobs, grande variété de périphériques.\\
-équipe la plupart des ordinateurs actuels. Deux catégories :
-\begin{itemize}
- \item \textbf{ batch :} impossibel d'agir sur le job une fois dans le système (tâches routinières non interactives)
- \item \textbf{Multiaccès (interactifs) : }  L'utilisateur dirige l'exec du job
-\end{itemize}
-
 \subsubsection{Systèmes Distribués}
-SE sur plusieurs ordinateurs interconnectés (chareg entre les machines)
 \subsubsection{Systèmes embarqués}
-traivail autonome dans un environnement minimaliste
-
-
